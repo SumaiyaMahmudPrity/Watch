@@ -1,0 +1,57 @@
+*{
+    /* font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400px;
+  font-style: normal;
+   background-color: white;  */
+   margin: 0;
+   padding: 0;
+ 
+}
+ 
+
+
+.logo-container{
+    display: flex;
+    grid-template-columns: auto auto;
+   
+    justify-content: space-around;
+  margin: 0;
+    padding: 0;
+
+}
+
+.menu-item{
+    display: flex;
+    float: right;
+        background-color: white;
+
+
+}
+.menu{
+    justify-content: space-evenly;
+   
+}
+.hay{
+    padding-top: 255px;
+    padding-left: 100px;
+
+   
+
+}
+h1{
+    font-size: larger;
+}
+.foot{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 65px;
+    padding-bottom: 70px;
+    margin-top: 80px;
+}
+.footer-menu{
+    display: flex;
+    justify-content: space-between;
+
+}
+
